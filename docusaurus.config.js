@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   title: "Coronavirus Tracker Map Dashboard",
-  tagline: "tagline...",
+  tagline: "Add coronavirus dashboard to your website or web system. Easy, optimized installation and automatically updated daily.",
   url: "https://marcoslimacom.github.io",
   baseUrl: "/coronavirus-tracker-doc/",
   favicon: "img/logo.svg",

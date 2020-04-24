@@ -13,7 +13,8 @@ const features = [
     imageAlt: "Coronavirus Tracker Map Dashboard - Marcos Lima",
     description: (
       <>
-        Description...
+        Add coronavirus dashboard to your website or web system. Easy, optimized
+        installation and automatically updated daily.
       </>
     ),
   },
