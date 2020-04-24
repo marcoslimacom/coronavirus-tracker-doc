@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    Documentation: ["requirements", "how-to-use"],
+    Documentation: ["how-to-publish", "how-to-develop"],
   },
 };

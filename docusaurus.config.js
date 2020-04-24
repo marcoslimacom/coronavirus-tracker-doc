@@ -17,7 +17,7 @@ module.exports = {
       },
       links: [
         {
-          to: "docs/requirements",
+          to: "docs/how-to-publish",
           activeBasePath: "docs",
           label: "Docs",
           position: "left",
@@ -37,12 +37,12 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Requirements",
-              to: "docs/requirements",
+              label: "How to publish",
+              to: "docs/how-to-publish",
             },
             {
-              label: "How to use",
-              to: "docs/how-to-use",
+              label: "How to develop",
+              to: "docs/how-to-develop",
             },
             {
               to: "docs/change-logs",
